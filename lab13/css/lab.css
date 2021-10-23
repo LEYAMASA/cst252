@@ -1,0 +1,26 @@
+#problem-button {
+  background-color: green;
+  color: black;
+}
+
+#challenge-button {
+  background-color: purple;
+  color: black;
+}
+
+#result-button {
+  background-color: yellow;
+  color: black;
+}
+
+.green-text {
+  color: green;
+}
+
+.purple-text {
+  color: purple;
+}
+
+.yellow-text {
+  color: yellow;
+}
